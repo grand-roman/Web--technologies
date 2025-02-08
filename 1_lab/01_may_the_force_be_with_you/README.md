@@ -1,4 +1,4 @@
-## Задача 3. May the force be with you
+## Задача 1. May the force be with you
 ### Что нужно сделать
 Фанаты «Звёздных войн» (Star Wars) написали API по своей любимой вселенной. Ссылка на документацию: https://www.swapi.tech/documentation
 
